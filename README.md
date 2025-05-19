@@ -1,2 +1,2 @@
 # discovery-nacos
-discovery for kitex use nacos.
+Discovery for kitex use nacos.
